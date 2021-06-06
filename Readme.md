@@ -8,7 +8,7 @@ Simon Mungai
 0762***
 Email simon.mungai@student.moringaschool.com
 # licenseMIT
-
+##code was written in html
 Copyright (c) [2021] [Simon Mungai]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
