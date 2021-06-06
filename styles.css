@@ -1,7 +1,12 @@
 *{
   background-color: orange;
+  background-size:cover;
 }
+
 *{
   font-family: Arial, Helvetica, sans-serif;
   font-size: 13px;
+}
+.simon{
+  float: right;
 }
