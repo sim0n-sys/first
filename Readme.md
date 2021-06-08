@@ -1,15 +1,21 @@
-# My first website
-  This is my first WEBSITE
-* My name is Simon Mungai
-* This website serves as my first  website readme writen in markdown
-* My first website is a moringa school project
-###contacts
-Simon Mungai
-0762***
-Email simon.mungai@student.moringaschool.com
-# licenseMIT
-##code was written in html
-Copyright (c) [2021] [Simon Mungai]
+# PERSONAL PORTFOLIO
+#### BRIEF DESCRIPTION
+This application is a webpage describing the services i offer as a software engineer .Date is 8th/june/2021 .this is the second version
+
+## Description
+This my portfolio describing my skills , projects and contacts and a full stack developer.
+The purpose of the portfolio is to portray my skills and also attract any potential client.
+## Setup/Installation Requirements
+* clone the repo
+* paste it on the browser
+## Technologies Used
+Technologies used are as follows
+* HTML5
+* CSS
+##contact details
+*Email Simonalexno@gmail.com
+### License
+Copyright SIMON MUNGAI 2021
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -28,20 +34,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-Copy license text to clipboard
-Suggest this license
-
-Make a pull request to suggest this license for a project that is not licensed. Please be polite: see if a license has already been suggested, try to suggest a license fitting for the project’s community, and keep your communication with project maintainers friendly.
-How to apply this license
-
-Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Replace [year] with the current year and [fullname] with the name (or names) of the copyright holders.
-Optional steps
-
-Add MIT to your project’s package description, if applicable (e.g., Node.js, Ruby, and Rust). This will ensure the license is displayed in package directories.
-Source
-Who’s using this license?
-
-    Babel
-    .NET Core
-    Rails
